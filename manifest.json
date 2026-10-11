@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1.0",
+  "org": "psf",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "41b2bae8ad7ad16130b29cdfdeb4897380129eef",
+      "parsed_at": "2026-10-11T09:22:49.682841+00:00",
+      "filetree": "filetree/41b2bae8ad7ad16130b29cdfdeb4897380129eef.nq.gz",
+      "blobs": [
+        "blob/e727a09163920e417d02be19b3194a916d52cd49.nq.gz",
+        "blob/d56ca9eb52f00409a1cdab4325e8f3007151769f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
